@@ -26,7 +26,6 @@ import com.openqa.selenium.chrome.ChromeDriver;
 import com.openqa.selenium.support.ui.ExpectedConditions;
 import com.openqa.selenium.support.ui.WebDriverWait;
 
-//import junit.framework.Assert;
 import com.junit.FixMethodOrder;
 import com.junit.runners.MethodSorters;
 
